@@ -1,3 +1,6 @@
 ## Test does it work with commit message or not
 
-- [x] Move card 153 from Requested to In Progress column via commit message
+Move cards in kanban via commit message
+
+- [x] Move card 153 from Requested to In Progress column 
+- [x] Move card 153 to '开发完成'
